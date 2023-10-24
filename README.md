@@ -12,6 +12,7 @@ This C++ project simulates search operations within a specialized triangle, refe
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [How to Run](#how-to-run)
+- [Note](#note)
 
 ## Features
 
@@ -41,5 +42,5 @@ To compile and run the Lozanic Triangle simulation, you need a C++ compiler (e.g
 5. Run the executable.
 6. Follow the on-screen instructions to execute the simulations.
 
-### Note
+## Note
 Ensure that your terminal supports ASCII escape codes to view the colorized and formatted output correctly.
