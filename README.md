@@ -1,4 +1,4 @@
-# LozanicTriangle
+# Lozanic Triangle
 This C++ project simulates search operations within a specialized triangle, referred to as the Lozanic Triangle. Users can execute binary and ternary search algorithms within the triangle, and the program provides a detailed output of each step of the search process. Additionally, it measures the time complexity of each algorithm by displaying the duration taken for execution.
 
 > My primary goal of this project was to get familiar with binary and ternary search and their efficiency as well as performance with smaller and larger amounts of data. I also got acquainted with a model of a triangle by the famous chemist and academician from Belgrade, Sima Lozanić
