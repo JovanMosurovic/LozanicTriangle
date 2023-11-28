@@ -1,3 +1,0 @@
-E:/FAKS/Treci semestar/ASP2/Domaci 1 Lozanic Triangle/cmake-build-debug/CMakeFiles/Domaci_1_Lozanic_Triangle.dir
-E:/FAKS/Treci semestar/ASP2/Domaci 1 Lozanic Triangle/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/FAKS/Treci semestar/ASP2/Domaci 1 Lozanic Triangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
